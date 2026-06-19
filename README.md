@@ -57,10 +57,5 @@ The dashboard is built using **Microsoft Excel (Power Pivot, Pivot Tables, and D
 
 ---
 
-## 📷 Dashboard Preview
-(Add your screenshot here)
-
----
-
 ## 🚀 Outcome
 This project helps understand how customer behavior and seasonal demand impact business sales, enabling better decision-making for marketing and inventory planning.
